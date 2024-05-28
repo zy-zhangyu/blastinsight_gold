@@ -1,0 +1,2 @@
+# blastinsight_gold
+blastinsight的gold页
